@@ -1,0 +1,11 @@
+colorama
+keyboard
+requests
+wifi
+bs4
+pystyle
+sellix
+urllib3
+ffmpeg-python
+pywin32
+pypresence
